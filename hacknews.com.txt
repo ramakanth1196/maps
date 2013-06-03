@@ -1,0 +1,4 @@
+
+HackNews scraps the news websites and presents the news in Treemap view. The Tree map presents the popular news(using the likes of the users).
+and latest news. 
+This can be used to help a team's news serach using the news searched by the team mates or department level.
